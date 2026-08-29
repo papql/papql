@@ -16,7 +16,7 @@ I enjoy uncovering interesting patterns in data and turning them into useful, ea
 
 ### Data & Development
 
-`Microsoft Excel` · `Git` · `GitHub`
+`Microsoft Excel` · `Git` · `GitHub`· `Tableau`· `PowerBI`
 
 ### Design & Creative Tools
 
