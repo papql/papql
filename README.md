@@ -2,7 +2,7 @@
 
 *A Computer Science and Statistics student at the University of Toronto, exploring data science and analytics.*
 
-I enjoy uncovering interesting patterns in data and turning them into useful, easy-to-understand insights. I'm currently building projects that explore data analysis, visualization, and the intersection of data and software. 📊💻
+I enjoy uncovering interesting patterns in data and turning them into useful, easy to understand insights. I'm currently building projects that explore data analysis, visualization, and the intersection of data and software. 📊💻
 
 ## 🧰 My Toolbox
 
