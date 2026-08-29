@@ -1,16 +1,28 @@
-## Hi there 👋
+## Nice to meet you!! I'm Pauline Nguyen 👋
 
-<!--
-**papql/papql** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*A Computer Science and Statistics student at the University of Toronto, exploring data analytics and data-driven products.*
 
-Here are some ideas to get you started:
+I enjoy finding interesting stories in data and turning them into useful, easy-to-understand solutions. I'm currently building projects to explore everything from data analysis and visualization to full-stack applications. 📊💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 My Toolbox
+
+### Languages
+
+`Python` · `R` · `SQL` · `Java` · `HTML` · `CSS`
+
+### Databases
+
+`PostgreSQL` · `MySQL`
+
+### Data & Development
+
+`Microsoft Excel` · `Git` · `GitHub`
+
+### Design & Creative Tools
+
+`Figma` · `Canva` · `Framer` · `Adobe Photoshop` · `Adobe Premiere Pro`
+
+## 📬 Get in Touch
+
+- **Email:** [*pauline.tupho.nguyen@gmail.com*](mailto:pauline.tupho.nguyen@gmail.com)
+- **LinkedIn:** [*linkedin.com/in/pauline-nguyen-2b175736a*](https://www.linkedin.com/in/pauline-nguyen-2b175736a/)
