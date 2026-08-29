@@ -1,8 +1,8 @@
 ## Nice to meet you!! I'm Pauline Nguyen 👋
 
-*A Computer Science and Statistics student at the University of Toronto, exploring data analytics and data-driven products.*
+*A Computer Science and Statistics student at the University of Toronto, exploring data science and analytics.*
 
-I enjoy finding interesting stories in data and turning them into useful, easy-to-understand solutions. I'm currently building projects to explore everything from data analysis and visualization to full-stack applications. 📊💻
+I enjoy uncovering interesting patterns in data and turning them into useful, easy-to-understand insights. I'm currently building projects that explore data analysis, visualization, and the intersection of data and software. 📊💻
 
 ## 🧰 My Toolbox
 
